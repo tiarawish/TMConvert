@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMConvert", "TMConvert\TMConvert.csproj", "{712E74D6-43D9-4960-AF00-ECF6C8ADE361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712E74D6-43D9-4960-AF00-ECF6C8ADE361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712E74D6-43D9-4960-AF00-ECF6C8ADE361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712E74D6-43D9-4960-AF00-ECF6C8ADE361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712E74D6-43D9-4960-AF00-ECF6C8ADE361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7842411-11C0-4130-8261-2FEE02BCA5E8}
+	EndGlobalSection
+EndGlobal

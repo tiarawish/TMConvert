@@ -1,0 +1,1574 @@
+{
+  "result": [
+    {
+      "id": "1556",
+      "company": "ANONYMOUS_COMPANY",
+      "customerNumber": "ANONYMOUS_DEBITOR"
+    },
+    {
+      "id": "2458",
+      "company": "Smart Support GmbH",
+      "customerNumber": "C1000"
+    },
+    {
+      "id": "2467",
+      "company": "System Repaircenter GmbH",
+      "customerNumber": "C1001"
+    },
+    {
+      "id": "2771",
+      "company": "YODA MEDIA GmbH ",
+      "customerNumber": "C1002"
+    },
+    {
+      "id": "2864",
+      "company": "Megarepair GmbH",
+      "customerNumber": "C1003"
+    },
+    {
+      "id": "2880",
+      "company": "Fernseh Hartung",
+      "customerNumber": "C1004"
+    },
+    {
+      "id": "3416",
+      "company": "DEV Hardware und Software GmbH",
+      "customerNumber": "C1007"
+    },
+    {
+      "id": "3502",
+      "company": "Stuttgartphone",
+      "customerNumber": "C1008"
+    },
+    {
+      "id": "3523",
+      "company": "Login Computerservice",
+      "customerNumber": "C1009"
+    },
+    {
+      "id": "3561",
+      "company": "Ampere-Express-Werkstatt",
+      "customerNumber": "C1010"
+    },
+    {
+      "id": "3579",
+      "company": "Handydoktor Heilbronn",
+      "customerNumber": "C1011"
+    },
+    {
+      "id": "4319",
+      "company": "PSC Freiburg ",
+      "customerNumber": "C1012"
+    },
+    {
+      "id": "4326",
+      "company": "PSC Bruchsal",
+      "customerNumber": "C1013"
+    },
+    {
+      "id": "4334",
+      "company": "rephono",
+      "customerNumber": "C1014"
+    },
+    {
+      "id": "4352",
+      "company": "pacuna GmbH",
+      "customerNumber": "C1015"
+    },
+    {
+      "id": "4372",
+      "company": "Schramm Computer",
+      "customerNumber": "C1016"
+    },
+    {
+      "id": "4424",
+      "company": "Everphone Repair GmbH",
+      "customerNumber": "C1017"
+    },
+    {
+      "id": "4434",
+      "company": "The iPhone Doc",
+      "customerNumber": "C1018"
+    },
+    {
+      "id": "4456",
+      "company": "Phone Service Center - Stuttgart City",
+      "customerNumber": "C1019"
+    },
+    {
+      "id": "5491",
+      "company": "Die Werkstatt",
+      "customerNumber": "C1020"
+    },
+    {
+      "id": "8096",
+      "company": "Eurociti Communication",
+      "customerNumber": "C1021"
+    },
+    {
+      "id": "8109",
+      "company": "Falke Concept GmbH",
+      "customerNumber": "C1022"
+    },
+    {
+      "id": "11662",
+      "company": "ReparaturLand",
+      "customerNumber": "C1023"
+    },
+    {
+      "id": "11678",
+      "company": "LetMeRepair - Poland Sp. z o.o.",
+      "customerNumber": "C1024"
+    },
+    {
+      "id": "11685",
+      "company": "Maptel.de",
+      "customerNumber": "C1025"
+    },
+    {
+      "id": "11717",
+      "company": "Phone Service Center - Nürnberg",
+      "customerNumber": "C1026"
+    },
+    {
+      "id": "11735",
+      "company": "MB Telekom",
+      "customerNumber": "C1027"
+    },
+    {
+      "id": "11742",
+      "company": "MyTel Mobile",
+      "customerNumber": "C1028"
+    },
+    {
+      "id": "11750",
+      "company": "iArt e.K.",
+      "customerNumber": "C1029"
+    },
+    {
+      "id": "13056",
+      "company": "LetMeRepair GmbH",
+      "customerNumber": "C1030"
+    },
+    {
+      "id": "13078",
+      "company": "RFM Services OHG",
+      "customerNumber": "C1031"
+    },
+    {
+      "id": "13087",
+      "company": "Set Up analyze \u0026 construct e.K.",
+      "customerNumber": "C1032"
+    },
+    {
+      "id": "13098",
+      "company": "Phonix Mobile",
+      "customerNumber": "C1033"
+    },
+    {
+      "id": "14301",
+      "customerNumber": "C1034"
+    },
+    {
+      "id": "15193",
+      "company": "Alterfone Communications GmbH",
+      "customerNumber": "C1035"
+    },
+    {
+      "id": "16027",
+      "company": "Provenzano Smartphone Repair",
+      "customerNumber": "C1036"
+    },
+    {
+      "id": "16773",
+      "company": "Mediq Mobile",
+      "customerNumber": "C1037"
+    },
+    {
+      "id": "17099",
+      "company": "Phonecare Köln Innenstadt 1",
+      "customerNumber": "C1038"
+    },
+    {
+      "id": "18575",
+      "company": "Multimedia Service Müller",
+      "customerNumber": "C1039"
+    },
+    {
+      "id": "19049",
+      "customerNumber": "C1040"
+    },
+    {
+      "id": "20518",
+      "company": "Mai + Schröder it-services GbR",
+      "customerNumber": "C1041"
+    },
+    {
+      "id": "22950",
+      "company": "Handyboxx",
+      "customerNumber": "C1042"
+    },
+    {
+      "id": "25687",
+      "company": "Handydoktor Kirsch",
+      "customerNumber": "C1043"
+    },
+    {
+      "id": "28076",
+      "company": "Smartphone Repair GmbH",
+      "customerNumber": "C1044"
+    },
+    {
+      "id": "31252",
+      "company": "Raot + Doroschenko GbR",
+      "customerNumber": "C1045"
+    },
+    {
+      "id": "35509",
+      "customerNumber": "C1046"
+    },
+    {
+      "id": "37114",
+      "company": "iRepair IT GmbH",
+      "customerNumber": "C1047"
+    },
+    {
+      "id": "38664",
+      "customerNumber": "C1048"
+    },
+    {
+      "id": "39096",
+      "customerNumber": "C1049"
+    },
+    {
+      "id": "40129",
+      "company": "Wesatel Services GmbH",
+      "customerNumber": "C1050"
+    },
+    {
+      "id": "42022",
+      "customerNumber": "C1051"
+    },
+    {
+      "id": "43560",
+      "customerNumber": "C1052"
+    },
+    {
+      "id": "44522",
+      "customerNumber": "C1053"
+    },
+    {
+      "id": "44570",
+      "company": "Handywerkstatt Wiesmoor",
+      "customerNumber": "C1054"
+    },
+    {
+      "id": "44655",
+      "company": "Handyklinik Lindlar",
+      "customerNumber": "C1055"
+    },
+    {
+      "id": "47355",
+      "company": "Phone Service Center - Heilbronn",
+      "customerNumber": "C1056"
+    },
+    {
+      "id": "47365",
+      "company": "Phone Service Center - Ludwigsburg Mediamarkt",
+      "customerNumber": "C1057"
+    },
+    {
+      "id": "47373",
+      "company": "Phone Service Center - Ludwigsburg City",
+      "customerNumber": "C1058"
+    },
+    {
+      "id": "47382",
+      "company": "Phone Service Center - Karlsruhe",
+      "customerNumber": "C1059"
+    },
+    {
+      "id": "47447",
+      "company": "Sgangoo GmbH",
+      "customerNumber": "C1060"
+    },
+    {
+      "id": "48619",
+      "company": "Ali Mourad",
+      "customerNumber": "C1061"
+    },
+    {
+      "id": "48626",
+      "company": "Medicus-Handyreparatur",
+      "customerNumber": "C1062"
+    },
+    {
+      "id": "49750",
+      "customerNumber": "C1063"
+    },
+    {
+      "id": "50968",
+      "company": "ISOMEDIA",
+      "customerNumber": "C1064"
+    },
+    {
+      "id": "51267",
+      "company": "mister-wu GmbH",
+      "customerNumber": "C1065"
+    },
+    {
+      "id": "51432",
+      "company": "Phone Service Center - Köln",
+      "customerNumber": "C1066"
+    },
+    {
+      "id": "52555",
+      "company": "ITS Lange",
+      "customerNumber": "C1067"
+    },
+    {
+      "id": "55703",
+      "company": "CheckMyPhone",
+      "customerNumber": "C1068"
+    },
+    {
+      "id": "56887",
+      "company": "Phone Service Center - Esslingen",
+      "customerNumber": "C1069"
+    },
+    {
+      "id": "60458",
+      "company": "Printer-Concept ",
+      "customerNumber": "C1070"
+    },
+    {
+      "id": "64968",
+      "customerNumber": "C1071"
+    },
+    {
+      "id": "77217",
+      "customerNumber": "C1072"
+    },
+    {
+      "id": "86513",
+      "customerNumber": "C1073"
+    },
+    {
+      "id": "90185",
+      "company": "Handylabor ELIA Gesellschaft für preiswerte Kommunikation mbH",
+      "customerNumber": "C1074"
+    },
+    {
+      "id": "92560",
+      "customerNumber": "C1075"
+    },
+    {
+      "id": "103221",
+      "company": "KWIK Reparatur",
+      "customerNumber": "C1076"
+    },
+    {
+      "id": "103277",
+      "company": "HandyDoc Tübingen",
+      "customerNumber": "C1077"
+    },
+    {
+      "id": "127843",
+      "company": "asgoodasnew electronics GmbH",
+      "customerNumber": "C1078"
+    },
+    {
+      "id": "128106",
+      "company": "Handy Best Repair",
+      "customerNumber": "C1079"
+    },
+    {
+      "id": "132013",
+      "company": "reBuy reCommerce Services GmbH \u0026 Co. ",
+      "customerNumber": "C1080"
+    },
+    {
+      "id": "132221",
+      "company": "Mobile Parts Discount",
+      "customerNumber": "C1081"
+    },
+    {
+      "id": "134703",
+      "company": "Handy-Werkstatt",
+      "customerNumber": "C1082"
+    },
+    {
+      "id": "140844",
+      "company": "PhoneDoktor24 GmbH",
+      "customerNumber": "C1083"
+    },
+    {
+      "id": "141185",
+      "customerNumber": "C1084"
+    },
+    {
+      "id": "143450",
+      "customerNumber": "C1085"
+    },
+    {
+      "id": "149280",
+      "customerNumber": "C1086"
+    },
+    {
+      "id": "160000",
+      "company": "Photograph onlineshop",
+      "customerNumber": "C1087"
+    },
+    {
+      "id": "166605",
+      "company": "Com-Mo",
+      "customerNumber": "C1088"
+    },
+    {
+      "id": "167155",
+      "company": "Repamo.com GmbH",
+      "customerNumber": "C1089"
+    },
+    {
+      "id": "173535",
+      "company": "Phone Service GmbH",
+      "customerNumber": "C1090"
+    },
+    {
+      "id": "183645",
+      "company": "SRS GmbH",
+      "customerNumber": "C1091"
+    },
+    {
+      "id": "184835",
+      "customerNumber": "C1092"
+    },
+    {
+      "id": "184844",
+      "customerNumber": "C1093"
+    },
+    {
+      "id": "186257",
+      "company": "CLS-Computer",
+      "customerNumber": "C1094"
+    },
+    {
+      "id": "186540",
+      "company": "SG SchneiderGolling InterTrade GmbH",
+      "customerNumber": "C1095"
+    },
+    {
+      "id": "190726",
+      "company": "Handydoktor BB",
+      "customerNumber": "C1096"
+    },
+    {
+      "id": "213837",
+      "customerNumber": "C1097"
+    },
+    {
+      "id": "214011",
+      "company": "Premium Concepts GmbH",
+      "customerNumber": "C1098"
+    },
+    {
+      "id": "226466",
+      "company": "Bausatzhaus Rhein Berg vET GmbH",
+      "customerNumber": "C1099"
+    },
+    {
+      "id": "242242",
+      "company": "BlauConcept GmbH",
+      "customerNumber": "C1100"
+    },
+    {
+      "id": "242832",
+      "company": "phonefreaX",
+      "customerNumber": "C1101"
+    },
+    {
+      "id": "243476",
+      "company": "Liftstar GmbH",
+      "customerNumber": "C1102"
+    },
+    {
+      "id": "244237",
+      "customerNumber": "C1103"
+    },
+    {
+      "id": "249413",
+      "customerNumber": "C1104"
+    },
+    {
+      "id": "254251",
+      "company": "Handylounge Das Original",
+      "customerNumber": "C1105"
+    },
+    {
+      "id": "259474",
+      "company": "Repamo.com GmbH",
+      "customerNumber": "C1106"
+    },
+    {
+      "id": "266732",
+      "company": "REBUY ELECTRONIC SERVICES POLSKA Sp.zo.o.",
+      "customerNumber": "C1107"
+    },
+    {
+      "id": "269766",
+      "customerNumber": "C1108"
+    },
+    {
+      "id": "278396",
+      "company": "TS Bau GmbH",
+      "customerNumber": "C1109"
+    },
+    {
+      "id": "289211",
+      "customerNumber": "C1110"
+    },
+    {
+      "id": "289836",
+      "customerNumber": "C1111"
+    },
+    {
+      "id": "290265",
+      "company": "SeGo Group GmbH",
+      "customerNumber": "C1112"
+    },
+    {
+      "id": "294658",
+      "company": "Eat italian/NK Gastronomier",
+      "customerNumber": "C1113"
+    },
+    {
+      "id": "295008",
+      "customerNumber": "C1114"
+    },
+    {
+      "id": "302214",
+      "company": "RTS Elektronik Systeme GmbH Supply Chain Solutions",
+      "customerNumber": "C1115"
+    },
+    {
+      "id": "310902",
+      "customerNumber": "C1116"
+    },
+    {
+      "id": "310930",
+      "company": "Beispielkunde Pro.Repair",
+      "customerNumber": "C1117"
+    },
+    {
+      "id": "321432",
+      "company": "Ecocep Service Solutions GmbH \u0026 Co. KG",
+      "customerNumber": "C1118"
+    },
+    {
+      "id": "326682",
+      "customerNumber": "C1119"
+    },
+    {
+      "id": "336823",
+      "company": "Clearsystem.com",
+      "customerNumber": "C1120"
+    },
+    {
+      "id": "351505",
+      "company": "Herweck AG",
+      "customerNumber": "C1121"
+    },
+    {
+      "id": "352481",
+      "company": "One Brand Solutions GmbH",
+      "customerNumber": "C1122"
+    },
+    {
+      "id": "354004",
+      "company": "Feinkost Kersten",
+      "customerNumber": "C1123"
+    },
+    {
+      "id": "363925",
+      "customerNumber": "C1124"
+    },
+    {
+      "id": "366521",
+      "company": "Comspot GmbH",
+      "customerNumber": "C1125"
+    },
+    {
+      "id": "366853",
+      "company": "MB-Smart GmbH",
+      "customerNumber": "C1126"
+    },
+    {
+      "id": "381316",
+      "customerNumber": "C1127"
+    },
+    {
+      "id": "388193",
+      "company": "w-support.com GmbH",
+      "customerNumber": "C1128"
+    },
+    {
+      "id": "394497",
+      "customerNumber": "C1129"
+    },
+    {
+      "id": "397474",
+      "company": "renno electronic",
+      "customerNumber": "C1130"
+    },
+    {
+      "id": "437539",
+      "customerNumber": "C1131"
+    },
+    {
+      "id": "438725",
+      "company": "aRepair Einhaus e.K.",
+      "customerNumber": "C1132"
+    },
+    {
+      "id": "445474",
+      "company": "Telcoland GmbH",
+      "customerNumber": "C1133"
+    },
+    {
+      "id": "445502",
+      "company": "Expert Bening Cuxhaven",
+      "customerNumber": "C1134"
+    },
+    {
+      "id": "456237",
+      "company": "TWT Gerlingen",
+      "customerNumber": "C1135"
+    },
+    {
+      "id": "460026",
+      "company": "Testkunde - Boomix",
+      "customerNumber": "20003"
+    },
+    {
+      "id": "472964",
+      "company": "ECC ESC International GmbH",
+      "customerNumber": "C1136"
+    },
+    {
+      "id": "477666",
+      "company": "S-REPAIR",
+      "customerNumber": "C1137"
+    },
+    {
+      "id": "483769",
+      "company": "Gnomics",
+      "customerNumber": "C1138"
+    },
+    {
+      "id": "517178",
+      "company": "Muster Trademobile GmbH",
+      "customerNumber": "C1139"
+    },
+    {
+      "id": "518816",
+      "company": "MoPa4U",
+      "customerNumber": "C1140"
+    },
+    {
+      "id": "542415",
+      "company": "Culinarius in-Biss",
+      "customerNumber": "C1141"
+    },
+    {
+      "id": "542424",
+      "customerNumber": "C1142"
+    },
+    {
+      "id": "543815",
+      "company": "ZJ Trading Limited",
+      "customerNumber": "C1143"
+    },
+    {
+      "id": "548267",
+      "company": "aRepair Einhaus e.K.",
+      "customerNumber": "C1144"
+    },
+    {
+      "id": "558340",
+      "company": "Revived Products GmbH",
+      "customerNumber": "C1145"
+    },
+    {
+      "id": "562344",
+      "company": "Justcom GmbH",
+      "customerNumber": "C1146"
+    },
+    {
+      "id": "2100197",
+      "company": "Te_Tech",
+      "customerNumber": "C1148"
+    },
+    {
+      "id": "2101121",
+      "company": "Phonecare Köln Innenstadt 2",
+      "customerNumber": "C1149"
+    },
+    {
+      "id": "2101140",
+      "company": "Phonecare Aachen ",
+      "customerNumber": "C1150"
+    },
+    {
+      "id": "2101168",
+      "company": "Phonecare Münster ",
+      "customerNumber": "C1151"
+    },
+    {
+      "id": "2111914",
+      "company": "Falk holding",
+      "customerNumber": "20004"
+    },
+    {
+      "id": "2111923",
+      "company": "arschpo gmbh",
+      "customerNumber": "20005"
+    },
+    {
+      "id": "2117495",
+      "company": "FoneFox Electronics GmbH",
+      "customerNumber": "C1152"
+    },
+    {
+      "id": "2121881",
+      "company": "Force Consulting",
+      "customerNumber": "C1153"
+    },
+    {
+      "id": "2121933",
+      "company": "MediClin GmbH \u0026 Co. KG",
+      "customerNumber": "C1154"
+    },
+    {
+      "id": "2122131",
+      "company": "Moritz Trompetter - selbständiger Vertriebsparter der MitNorm GmbH",
+      "customerNumber": "C1155"
+    },
+    {
+      "id": "2122519",
+      "company": "Fibonacci",
+      "customerNumber": "20008"
+    },
+    {
+      "id": "2123465",
+      "customerNumber": "C1156"
+    },
+    {
+      "id": "2123476",
+      "customerNumber": "C1157"
+    },
+    {
+      "id": "2123515",
+      "customerNumber": "C1158"
+    },
+    {
+      "id": "2123526",
+      "customerNumber": "C1159"
+    },
+    {
+      "id": "2123952",
+      "customerNumber": "C1160"
+    },
+    {
+      "id": "2124041",
+      "customerNumber": "C1161"
+    },
+    {
+      "id": "2132529",
+      "customerNumber": "C1162"
+    },
+    {
+      "id": "2133377",
+      "customerNumber": "C1163"
+    },
+    {
+      "id": "2133445",
+      "customerNumber": "C1164"
+    },
+    {
+      "id": "2133640",
+      "company": "Teqcycle Solutions GmbH",
+      "customerNumber": "C1165"
+    },
+    {
+      "id": "2133679",
+      "customerNumber": "C1166"
+    },
+    {
+      "id": "2134127",
+      "company": "Stadt Bergisch Gladbach",
+      "customerNumber": "C1167"
+    },
+    {
+      "id": "2134334",
+      "company": "Wappsta GbR",
+      "customerNumber": "C1168"
+    },
+    {
+      "id": "2134703",
+      "customerNumber": "C1169"
+    },
+    {
+      "id": "2135891",
+      "company": "Stern Apotheke Köln",
+      "customerNumber": "C1170"
+    },
+    {
+      "id": "2136368",
+      "company": "Kaiser Apotheke",
+      "customerNumber": "C1171"
+    },
+    {
+      "id": "2137927",
+      "company": "Engelbert Humperdinck Apotheke ",
+      "customerNumber": "C1172"
+    },
+    {
+      "id": "2146384",
+      "company": "Apotheke am Neumarkt",
+      "customerNumber": "C1173"
+    },
+    {
+      "id": "2146877",
+      "company": "Feuerwehr Bergisch Gladbach",
+      "customerNumber": "C1174"
+    },
+    {
+      "id": "2147857",
+      "company": "Bianga Optik",
+      "customerNumber": "C1175"
+    },
+    {
+      "id": "2151492",
+      "company": "Agrar-Service von Meer",
+      "customerNumber": "C1176"
+    },
+    {
+      "id": "2157499",
+      "company": "Halbig Handels GmbH",
+      "customerNumber": "C1177"
+    },
+    {
+      "id": "2160547",
+      "company": "Eurofins BioPharma Product Testing Munich GmbH",
+      "customerNumber": "C1178"
+    },
+    {
+      "id": "2160852",
+      "company": "Hirsch Apotheke",
+      "customerNumber": "C1179"
+    },
+    {
+      "id": "2161118",
+      "customerNumber": "C1180"
+    },
+    {
+      "id": "2161132",
+      "company": "GI Medizinischer Fachhandel",
+      "customerNumber": "C1181"
+    },
+    {
+      "id": "2161141",
+      "company": "Bahnhof-Apotheke",
+      "customerNumber": "C1182"
+    },
+    {
+      "id": "2161191",
+      "customerNumber": "C1183"
+    },
+    {
+      "id": "2161205",
+      "company": "Apotheke am Flughafen, Wolfgang Stowasser e.K.",
+      "customerNumber": "C1184"
+    },
+    {
+      "id": "2161279",
+      "company": "Lotto - Presse - Schreibwaren Dalgic",
+      "customerNumber": "C1185"
+    },
+    {
+      "id": "2161341",
+      "company": "Die Herz-Apotheke",
+      "customerNumber": "C1186"
+    },
+    {
+      "id": "2161364",
+      "company": "Apotheke Neefepark",
+      "customerNumber": "C1187"
+    },
+    {
+      "id": "2161413",
+      "company": "Grassi Apotheke",
+      "customerNumber": "C1188"
+    },
+    {
+      "id": "2161644",
+      "company": "Apotheke im Vita-Center, Elmar Werner e.K. ",
+      "customerNumber": "C1189"
+    },
+    {
+      "id": "2162130",
+      "company": "first112aid Medizinische Dienstleistungen",
+      "customerNumber": "C1190"
+    },
+    {
+      "id": "2162152",
+      "company": "König Apothekte",
+      "customerNumber": "C1191"
+    },
+    {
+      "id": "2162262",
+      "company": "Hirsch Apotheke",
+      "customerNumber": "C1192"
+    },
+    {
+      "id": "2162343",
+      "company": "Löwen-Apotheke Sabine Höfken e.K.",
+      "customerNumber": "C1193"
+    },
+    {
+      "id": "2162430",
+      "company": "Markt Apotheke",
+      "customerNumber": "C1194"
+    },
+    {
+      "id": "2163181",
+      "company": "Stadt Lohmar",
+      "customerNumber": "C1195"
+    },
+    {
+      "id": "2163446",
+      "company": "Bären-Apotheke Reinsdorf",
+      "customerNumber": "C1196"
+    },
+    {
+      "id": "2163452",
+      "company": "West Apotheke Chemnitz",
+      "customerNumber": "C1197"
+    },
+    {
+      "id": "2163582",
+      "company": "Neue Apotheke",
+      "customerNumber": "C1198"
+    },
+    {
+      "id": "2163664",
+      "company": "Aesculap Apotheke",
+      "customerNumber": "C1199"
+    },
+    {
+      "id": "2163780",
+      "company": "Eichen-Apotheke, Patrick Hofmann e.K.",
+      "customerNumber": "C1200"
+    },
+    {
+      "id": "2163905",
+      "company": "Oberplanitzer Apotheke ",
+      "customerNumber": "C1201"
+    },
+    {
+      "id": "2164001",
+      "customerNumber": "C1202"
+    },
+    {
+      "id": "2164020",
+      "company": "Dr. med. Gabriele Jaquet",
+      "customerNumber": "C1203"
+    },
+    {
+      "id": "2164164",
+      "customerNumber": "C1204"
+    },
+    {
+      "id": "2164536",
+      "company": "Alte Stadt Apotheke OHG Thomas Schröder, Carsten Albrecht",
+      "customerNumber": "C1205"
+    },
+    {
+      "id": "2164851",
+      "company": "Ludgeri Apotheke",
+      "customerNumber": "C1206"
+    },
+    {
+      "id": "2164869",
+      "company": "BM Bloom Media GmbH",
+      "customerNumber": "C1207"
+    },
+    {
+      "id": "2165004",
+      "company": "MAGS - Ministerium für Arbeit, Gesundheit und Soziales",
+      "customerNumber": "C1208"
+    },
+    {
+      "id": "2165096",
+      "company": "Stadt Lohmar",
+      "customerNumber": "C1209"
+    },
+    {
+      "id": "2165438",
+      "company": "JHC Service GmbH",
+      "customerNumber": "C1210"
+    },
+    {
+      "id": "2165748",
+      "company": "RodBert GmbH",
+      "customerNumber": "C1211"
+    },
+    {
+      "id": "2166174",
+      "company": "Eurofins  Biolab Srl",
+      "customerNumber": "C1212"
+    },
+    {
+      "id": "2166400",
+      "company": "Bruckmann Augenoptik GmbH",
+      "customerNumber": "C1213"
+    },
+    {
+      "id": "2166483",
+      "company": "Pexmed GmbH",
+      "customerNumber": "C1214"
+    },
+    {
+      "id": "2166874",
+      "company": "Eckes-Granini Deutschland GmbH",
+      "customerNumber": "C1215"
+    },
+    {
+      "id": "2167579",
+      "company": "MDV Küchenkonzepte OHG",
+      "customerNumber": "C1216"
+    },
+    {
+      "id": "2167842",
+      "company": "Jahnke Hoyer \u0026 Cie. GmbH",
+      "customerNumber": "C1217"
+    },
+    {
+      "id": "2167986",
+      "company": "Barbara-Apotheke, Martina Asselmann-Nolte e.Kfr.",
+      "customerNumber": "C1218"
+    },
+    {
+      "id": "2168063",
+      "company": "Dr. Starck \u0026 Co. Gesellschaft für Wärme- und Kältetechnik mbH",
+      "customerNumber": "C1219"
+    },
+    {
+      "id": "2168243",
+      "company": "Elternheim der Synagogen-Gemeinde Köln",
+      "customerNumber": "C1220"
+    },
+    {
+      "id": "2168306",
+      "company": "Tagwerk Personal GmbH",
+      "customerNumber": "C1221"
+    },
+    {
+      "id": "2168665",
+      "company": "Rosen-Apotheke, Arne Trippe e.K.",
+      "customerNumber": "C1222"
+    },
+    {
+      "id": "2168680",
+      "company": "Jansen,Dix,Streassburger und Partner mbB",
+      "customerNumber": "C1223"
+    },
+    {
+      "id": "2168847",
+      "customerNumber": "C1224"
+    },
+    {
+      "id": "2169216",
+      "customerNumber": "C1225"
+    },
+    {
+      "id": "2169396",
+      "customerNumber": "C1226"
+    },
+    {
+      "id": "2169539",
+      "company": "Jotec Service und Vertriebsgesellschaft mbH",
+      "customerNumber": "C1227"
+    },
+    {
+      "id": "2170035",
+      "company": "Josten Tortechnik GmbH",
+      "customerNumber": "C1228"
+    },
+    {
+      "id": "2170187",
+      "company": "Agatha Apotheke",
+      "customerNumber": "C1229"
+    },
+    {
+      "id": "2170428",
+      "company": "Die Max \u0026 Moritz Apotheke",
+      "customerNumber": "C1230"
+    },
+    {
+      "id": "2170769",
+      "company": "Geka Getraenkekauf GmbH",
+      "customerNumber": "C1231"
+    },
+    {
+      "id": "2170964",
+      "customerNumber": "C1232"
+    },
+    {
+      "id": "2171151",
+      "customerNumber": "C1233"
+    },
+    {
+      "id": "2171289",
+      "customerNumber": "C1234"
+    },
+    {
+      "id": "2171490",
+      "customerNumber": "C1235"
+    },
+    {
+      "id": "2171604",
+      "company": "Heinrich Metz",
+      "customerNumber": "C1236"
+    },
+    {
+      "id": "2171974",
+      "company": "Deutschherren Apotheke",
+      "customerNumber": "C1237"
+    },
+    {
+      "id": "2172119",
+      "company": "Bundesministerium für Gesundheit",
+      "customerNumber": "C1238"
+    },
+    {
+      "id": "2172172",
+      "company": "Easy Apotheke Siegburg City",
+      "customerNumber": "C1239"
+    },
+    {
+      "id": "2172292",
+      "company": "Hevert-Arzneimittel GmbH \u0026 Co. KG",
+      "customerNumber": "C1240"
+    },
+    {
+      "id": "2172324",
+      "company": "Pharma Bavaria International GmbH",
+      "customerNumber": "C1241"
+    },
+    {
+      "id": "2172594",
+      "customerNumber": "C1242"
+    },
+    {
+      "id": "2172682",
+      "company": "Eurofins Product Service GmbH",
+      "customerNumber": "C1243"
+    },
+    {
+      "id": "2173401",
+      "company": "Seeapotheke",
+      "customerNumber": "C1244"
+    },
+    {
+      "id": "2174284",
+      "company": "Eurofins GeneScan Technologies GmbH",
+      "customerNumber": "C1245"
+    },
+    {
+      "id": "2174891",
+      "company": "Osterlandapotheke",
+      "customerNumber": "C1246"
+    },
+    {
+      "id": "2175616",
+      "company": "Markt-Apotheke Sigrid Hering e.K.",
+      "customerNumber": "C1247"
+    },
+    {
+      "id": "2175779",
+      "company": "Kinderzimmerhaus",
+      "customerNumber": "C1248"
+    },
+    {
+      "id": "2175803",
+      "customerNumber": "C1249"
+    },
+    {
+      "id": "2175918",
+      "company": "WS-Technik Service GmbH",
+      "customerNumber": "C1250"
+    },
+    {
+      "id": "2176172",
+      "company": "Eurofins Institut Jäger GmbH",
+      "customerNumber": "C1251"
+    },
+    {
+      "id": "2177701",
+      "customerNumber": "C1252"
+    },
+    {
+      "id": "2178145",
+      "company": "Katharinen Apotheke",
+      "customerNumber": "C1253"
+    },
+    {
+      "id": "2179523",
+      "company": "Eurofins BioPharma Product Testing Hamburg GmbH",
+      "customerNumber": "C1254"
+    },
+    {
+      "id": "2179652",
+      "company": "Eurofins PHAST GmbH",
+      "customerNumber": "C1255"
+    },
+    {
+      "id": "2179747",
+      "company": "Gewohnheit GmbH",
+      "customerNumber": "C1256"
+    },
+    {
+      "id": "2182378",
+      "company": "Hair Experts",
+      "customerNumber": "C1257"
+    },
+    {
+      "id": "2182487",
+      "company": "Eurofins Analytik GmbH",
+      "customerNumber": "C1258"
+    },
+    {
+      "id": "2183629",
+      "company": "Danpower Energie Service GmbH",
+      "customerNumber": "C1259"
+    },
+    {
+      "id": "2184270",
+      "company": "Verder Scientific GmbH \u0026 Co. KG",
+      "customerNumber": "C1260"
+    },
+    {
+      "id": "2184452",
+      "company": "SocialMuse UG",
+      "customerNumber": "C1261"
+    },
+    {
+      "id": "2185239",
+      "customerNumber": "C1262"
+    },
+    {
+      "id": "2185541",
+      "company": "Moët Hennessy Deutschland GmbH",
+      "customerNumber": "C1263"
+    },
+    {
+      "id": "2186344",
+      "company": "TM Trademobile GmbH",
+      "customerNumber": "C1264"
+    },
+    {
+      "id": "2187482",
+      "company": "Justcom GmbH",
+      "customerNumber": "C1265"
+    },
+    {
+      "id": "2191610",
+      "company": "Eurofins Finance Transactions Germany GmbH",
+      "customerNumber": "C1266"
+    },
+    {
+      "id": "2192521",
+      "company": "Eurofins CLF Specialised Nutrition Testing Services GmbH",
+      "customerNumber": "C1267"
+    },
+    {
+      "id": "2192745",
+      "company": "KfH Kuratorium für Dialyse",
+      "customerNumber": "C1268"
+    },
+    {
+      "id": "2192836",
+      "company": "RSS Repair GmbH",
+      "customerNumber": "C1269"
+    },
+    {
+      "id": "2193572",
+      "customerNumber": "C1270"
+    },
+    {
+      "id": "2194346",
+      "company": "Eurofins Dr. Specht Laboratorien GmbH",
+      "customerNumber": "C1271"
+    },
+    {
+      "id": "2194460",
+      "company": "ATM Qness GmbH",
+      "customerNumber": "C1272"
+    },
+    {
+      "id": "2194477",
+      "company": "Carbolite Gero GmbH \u0026 Co. KG",
+      "customerNumber": "C1273"
+    },
+    {
+      "id": "2194500",
+      "company": "Retsch GmbH",
+      "customerNumber": "C1274"
+    },
+    {
+      "id": "2194532",
+      "company": "Eltra Gmbh",
+      "customerNumber": "C1275"
+    },
+    {
+      "id": "2194545",
+      "company": "Mircotrac Retsch GmbH",
+      "customerNumber": "C1276"
+    },
+    {
+      "id": "2196308",
+      "company": "Eurofins Institut Dr. Appelt Leipzig GmbH",
+      "customerNumber": "C1277"
+    },
+    {
+      "id": "2203893",
+      "company": "Eurofins LifeCodexx GmbH",
+      "customerNumber": "C1278"
+    },
+    {
+      "id": "2213428",
+      "company": "Nano Repairs UG",
+      "customerNumber": "C1279"
+    },
+    {
+      "id": "2213528",
+      "company": "Phoneglass 24",
+      "customerNumber": "C1280"
+    },
+    {
+      "id": "2213549",
+      "company": "PHONEFIX BIBERACH",
+      "customerNumber": "C1281"
+    },
+    {
+      "id": "2216363",
+      "company": "Geko-store",
+      "customerNumber": "C1282"
+    },
+    {
+      "id": "2216374",
+      "company": "Handy Planet",
+      "customerNumber": "C1283"
+    },
+    {
+      "id": "2218730",
+      "company": "Jamborepair",
+      "customerNumber": "C1284"
+    },
+    {
+      "id": "2218828",
+      "customerNumber": "C1287"
+    },
+    {
+      "id": "2218952",
+      "company": "GlassMasterz",
+      "customerNumber": "C1285"
+    },
+    {
+      "id": "2219727",
+      "company": "Kenitel Handy Reparatur",
+      "customerNumber": "C1286"
+    },
+    {
+      "id": "2222303",
+      "company": "Fibonacci Media GbR",
+      "customerNumber": "20009"
+    },
+    {
+      "id": "2222937",
+      "company": "Hornung EDV",
+      "customerNumber": "20006"
+    },
+    {
+      "id": "2224692",
+      "company": "iDeviceFixer",
+      "customerNumber": "C1288"
+    },
+    {
+      "id": "2225381",
+      "company": "Handycenter 24",
+      "customerNumber": "C1289"
+    },
+    {
+      "id": "2225479",
+      "company": "RIPARATA IT S.R.L.S",
+      "customerNumber": "C1290"
+    },
+    {
+      "id": "2225612",
+      "company": "Christian Mihalache",
+      "customerNumber": "C1291"
+    },
+    {
+      "id": "2225842",
+      "company": "Renard Diego",
+      "customerNumber": "C1292"
+    },
+    {
+      "id": "2226627",
+      "company": "Smart\u0027gones Repair",
+      "customerNumber": "C1293"
+    },
+    {
+      "id": "2226714",
+      "company": "HßF Trading GmbH",
+      "customerNumber": "C1294"
+    },
+    {
+      "id": "2226810",
+      "company": "be-GmbH",
+      "customerNumber": "C1295"
+    },
+    {
+      "id": "2226893",
+      "company": "DS Refurbish SRL",
+      "customerNumber": "C1296"
+    },
+    {
+      "id": "2226942",
+      "company": "Ogün Kutlu",
+      "customerNumber": "C1297"
+    },
+    {
+      "id": "2227033",
+      "company": "Smartphone Notdienst 24",
+      "customerNumber": "C1298"
+    },
+    {
+      "id": "2227344",
+      "company": "Mobitel Centar Erla Servis",
+      "customerNumber": "C1299"
+    },
+    {
+      "id": "2227633",
+      "company": "Gheorghe Bogdan",
+      "customerNumber": "C1300"
+    },
+    {
+      "id": "2228241",
+      "company": "ETRONICS",
+      "customerNumber": "C1301"
+    },
+    {
+      "id": "2228574",
+      "company": "SC Security Shop SRL",
+      "customerNumber": "C1302"
+    },
+    {
+      "id": "2229706",
+      "company": "Smartmod GmbH",
+      "customerNumber": "C1303"
+    },
+    {
+      "id": "2229849",
+      "company": "Rexcom",
+      "customerNumber": "C1304"
+    },
+    {
+      "id": "2232559",
+      "company": "JMJ Telecom",
+      "customerNumber": "C1305"
+    },
+    {
+      "id": "2233262",
+      "company": "Yorkshire Tech Centre",
+      "customerNumber": "C1306"
+    },
+    {
+      "id": "2235740",
+      "company": "ByteClub GmbH",
+      "customerNumber": "C1308"
+    },
+    {
+      "id": "2239602",
+      "company": "Eurofins Umwelt West GmbH",
+      "customerNumber": "C1309"
+    },
+    {
+      "id": "2245102",
+      "company": "Talat Demirali",
+      "customerNumber": "C1310"
+    },
+    {
+      "id": "2247009",
+      "company": "Recep Arslan",
+      "customerNumber": "C1311"
+    },
+    {
+      "id": "2247858",
+      "company": "Voara Ralaiarijaona ",
+      "customerNumber": "C1312"
+    },
+    {
+      "id": "2248501",
+      "company": "Phonex Mobile",
+      "customerNumber": "C1313"
+    },
+    {
+      "id": "2248548",
+      "company": "Eurofins Institut Dr. Appelt Hilter GmbH",
+      "customerNumber": "C1314"
+    },
+    {
+      "id": "2250801",
+      "company": "Phonehospital",
+      "customerNumber": "C1315"
+    },
+    {
+      "id": "2254595",
+      "company": "Tuan Nguyen",
+      "customerNumber": "C1316"
+    },
+    {
+      "id": "2255077",
+      "company": "Eurofins Institut Dr. Rothe",
+      "customerNumber": "C1317"
+    },
+    {
+      "id": "2255170",
+      "company": "Eurofins Inlab GmbH",
+      "customerNumber": "C1318"
+    },
+    {
+      "id": "2258265",
+      "company": "Repdirect",
+      "customerNumber": "C1319"
+    },
+    {
+      "id": "2258301",
+      "company": "TheiMarket",
+      "customerNumber": "C1320"
+    },
+    {
+      "id": "2258347",
+      "company": "Repairwelt",
+      "customerNumber": "C1321"
+    },
+    {
+      "id": "2258718",
+      "company": "Eurofins BioTesting Services Ost GmbH",
+      "customerNumber": "C1322"
+    }
+  ]
+}

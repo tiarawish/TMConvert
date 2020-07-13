@@ -1,0 +1,504 @@
+{
+  "result": [
+    {
+      "articleId": "2399",
+      "customerId": "11662",
+      "price": "47"
+    },
+    {
+      "articleId": "4556",
+      "customerId": "11662",
+      "price": "47"
+    },
+    {
+      "articleId": "2383",
+      "customerId": "11662",
+      "price": "27"
+    },
+    {
+      "articleId": "4497",
+      "customerId": "11662",
+      "price": "6.5"
+    },
+    {
+      "articleId": "4511",
+      "customerId": "11662",
+      "price": "27"
+    },
+    {
+      "articleId": "2137",
+      "customerId": "11662",
+      "price": "184.99"
+    },
+    {
+      "articleId": "4518",
+      "customerId": "11662",
+      "price": "33"
+    },
+    {
+      "articleId": "4598",
+      "customerId": "11662",
+      "price": "63"
+    },
+    {
+      "articleId": "4588",
+      "customerId": "11662",
+      "price": "63"
+    },
+    {
+      "articleId": "4833",
+      "customerId": "11662",
+      "price": "97.99"
+    },
+    {
+      "articleId": "20681",
+      "customerId": "11662",
+      "price": "6.5"
+    },
+    {
+      "articleId": "2412",
+      "customerId": "11662",
+      "price": "68"
+    },
+    {
+      "articleId": "4525",
+      "customerId": "11662",
+      "price": "33"
+    },
+    {
+      "articleId": "46022",
+      "customerId": "11662",
+      "price": "3.99"
+    },
+    {
+      "articleId": "46028",
+      "customerId": "11662",
+      "price": "3.99"
+    },
+    {
+      "articleId": "4572",
+      "customerId": "11662",
+      "price": "71"
+    },
+    {
+      "articleId": "4795",
+      "customerId": "11662",
+      "price": "169.99"
+    },
+    {
+      "articleId": "12140",
+      "customerId": "11662",
+      "price": "67"
+    },
+    {
+      "articleId": "12138",
+      "customerId": "11662",
+      "price": "67"
+    },
+    {
+      "articleId": "12106",
+      "customerId": "11662",
+      "price": "79"
+    },
+    {
+      "articleId": "4644",
+      "customerId": "11662",
+      "price": "99"
+    },
+    {
+      "articleId": "4639",
+      "customerId": "11662",
+      "price": "99"
+    },
+    {
+      "articleId": "4516",
+      "customerId": "11662",
+      "price": "6.5"
+    },
+    {
+      "articleId": "4563",
+      "customerId": "11662",
+      "price": "9.5"
+    },
+    {
+      "articleId": "4492",
+      "customerId": "11662",
+      "price": "27"
+    },
+    {
+      "articleId": "22311",
+      "customerId": "11662",
+      "price": "9"
+    },
+    {
+      "articleId": "12098",
+      "customerId": "11662",
+      "price": "40"
+    },
+    {
+      "articleId": "12100",
+      "customerId": "11662",
+      "price": "40"
+    },
+    {
+      "articleId": "2151",
+      "customerId": "11662",
+      "price": "199.99"
+    },
+    {
+      "articleId": "4629",
+      "customerId": "11662",
+      "price": "74"
+    },
+    {
+      "articleId": "4579",
+      "customerId": "11662",
+      "price": "10.5"
+    },
+    {
+      "articleId": "4572",
+      "customerId": "11662",
+      "price": "74"
+    },
+    {
+      "articleId": "4565",
+      "customerId": "11662",
+      "price": "74"
+    },
+    {
+      "articleId": "12172",
+      "customerId": "11662",
+      "price": "28"
+    },
+    {
+      "articleId": "12172",
+      "customerId": "11662",
+      "price": "35"
+    },
+    {
+      "articleId": "4690",
+      "customerId": "11662",
+      "price": "19.99"
+    },
+    {
+      "articleId": "4692",
+      "customerId": "11662",
+      "price": "19.99"
+    },
+    {
+      "articleId": "4696",
+      "customerId": "11662",
+      "price": "19.99"
+    },
+    {
+      "articleId": "4698",
+      "customerId": "11662",
+      "price": "19.99"
+    },
+    {
+      "articleId": "4611",
+      "customerId": "11662",
+      "price": "84"
+    },
+    {
+      "articleId": "4664",
+      "customerId": "11662",
+      "price": "12.99"
+    },
+    {
+      "articleId": "4666",
+      "customerId": "11662",
+      "price": "12.99"
+    },
+    {
+      "articleId": "4674",
+      "customerId": "11662",
+      "price": "16.99"
+    },
+    {
+      "articleId": "4602",
+      "customerId": "11662",
+      "price": "11"
+    },
+    {
+      "articleId": "4626",
+      "customerId": "11662",
+      "price": "12"
+    },
+    {
+      "articleId": "4676",
+      "customerId": "11662",
+      "price": "16.99"
+    },
+    {
+      "articleId": "4598",
+      "customerId": "11662",
+      "price": "68"
+    },
+    {
+      "articleId": "23701",
+      "customerId": "11662",
+      "price": "27"
+    },
+    {
+      "articleId": "2399",
+      "customerId": "11662",
+      "price": "45"
+    },
+    {
+      "articleId": "4541",
+      "customerId": "11662",
+      "price": "50"
+    },
+    {
+      "articleId": "4581",
+      "customerId": "11662",
+      "price": "68"
+    },
+    {
+      "articleId": "4615",
+      "customerId": "11662",
+      "price": "98"
+    },
+    {
+      "articleId": "4634",
+      "customerId": "11662",
+      "price": "76"
+    },
+    {
+      "articleId": "4639",
+      "customerId": "11662",
+      "price": "90"
+    },
+    {
+      "articleId": "4505",
+      "customerId": "11662",
+      "price": "7.5"
+    },
+    {
+      "articleId": "4532",
+      "customerId": "11662",
+      "price": "9"
+    },
+    {
+      "articleId": "4622",
+      "customerId": "11662",
+      "price": "84"
+    },
+    {
+      "articleId": "4598",
+      "customerId": "11662",
+      "price": "61"
+    },
+    {
+      "articleId": "12182",
+      "customerId": "11662",
+      "price": "28"
+    },
+    {
+      "articleId": "4652",
+      "customerId": "11662",
+      "price": "12.99"
+    },
+    {
+      "articleId": "4556",
+      "customerId": "11662",
+      "price": "45"
+    },
+    {
+      "articleId": "5062",
+      "customerId": "11662",
+      "price": "16"
+    },
+    {
+      "articleId": "4588",
+      "customerId": "11662",
+      "price": "61"
+    },
+    {
+      "articleId": "4837",
+      "customerId": "11662",
+      "price": "91.99"
+    },
+    {
+      "articleId": "4680",
+      "customerId": "11662",
+      "price": "149.99"
+    },
+    {
+      "articleId": "4492",
+      "customerId": "11662",
+      "price": "26"
+    },
+    {
+      "articleId": "2383",
+      "customerId": "11662",
+      "price": "26"
+    },
+    {
+      "articleId": "18203",
+      "customerId": "11662",
+      "price": "26"
+    },
+    {
+      "articleId": "2412",
+      "customerId": "11662",
+      "price": "65"
+    },
+    {
+      "articleId": "4548",
+      "customerId": "11662",
+      "price": "10"
+    },
+    {
+      "articleId": "4799",
+      "customerId": "11662",
+      "price": "169.99"
+    },
+    {
+      "articleId": "4487",
+      "customerId": "11662",
+      "price": "26"
+    },
+    {
+      "articleId": "4525",
+      "customerId": "11662",
+      "price": "32"
+    },
+    {
+      "articleId": "4518",
+      "customerId": "11662",
+      "price": "32"
+    },
+    {
+      "articleId": "4511",
+      "customerId": "11662",
+      "price": "26"
+    },
+    {
+      "articleId": "4639",
+      "customerId": "11662",
+      "price": "86"
+    },
+    {
+      "articleId": "2399",
+      "customerId": "11662",
+      "price": "43.5"
+    },
+    {
+      "articleId": "4644",
+      "customerId": "11662",
+      "price": "86"
+    },
+    {
+      "articleId": "107598",
+      "customerId": "11662",
+      "price": "35"
+    },
+    {
+      "articleId": "4829",
+      "customerId": "11662",
+      "price": "92.99"
+    },
+    {
+      "articleId": "108010",
+      "customerId": "11662",
+      "price": "14"
+    },
+    {
+      "articleId": "4534",
+      "customerId": "11662",
+      "price": "50"
+    },
+    {
+      "articleId": "104574",
+      "customerId": "11662",
+      "price": "68"
+    },
+    {
+      "articleId": "4604",
+      "customerId": "11662",
+      "price": "95"
+    },
+    {
+      "articleId": "4548",
+      "customerId": "11662",
+      "price": "8"
+    },
+    {
+      "articleId": "180821",
+      "customerId": "11662",
+      "price": "142.5"
+    },
+    {
+      "articleId": "23701",
+      "customerId": "11662",
+      "price": "26"
+    },
+    {
+      "articleId": "4829",
+      "customerId": "11662",
+      "price": "75"
+    },
+    {
+      "articleId": "4563",
+      "customerId": "11662",
+      "price": "8.5"
+    },
+    {
+      "articleId": "4579",
+      "customerId": "11662",
+      "price": "9.5"
+    },
+    {
+      "articleId": "4581",
+      "customerId": "11662",
+      "price": "65"
+    },
+    {
+      "articleId": "4629",
+      "customerId": "11662",
+      "price": "68"
+    },
+    {
+      "articleId": "4634",
+      "customerId": "11662",
+      "price": "68"
+    },
+    {
+      "articleId": "4556",
+      "customerId": "11662",
+      "price": "43.5"
+    },
+    {
+      "articleId": "108010",
+      "customerId": "11662",
+      "price": "11"
+    },
+    {
+      "articleId": "4648",
+      "customerId": "11662",
+      "price": "245"
+    },
+    {
+      "articleId": "4684",
+      "customerId": "11662",
+      "price": "19.99"
+    },
+    {
+      "articleId": "4686",
+      "customerId": "11662",
+      "price": "19.99"
+    },
+    {
+      "articleId": "89132",
+      "customerId": "11662",
+      "price": "86"
+    },
+    {
+      "articleId": "4615",
+      "customerId": "11662",
+      "price": "95"
+    }
+  ]
+}

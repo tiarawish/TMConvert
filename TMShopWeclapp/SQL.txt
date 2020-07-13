@@ -1,0 +1,5 @@
+Smart Support C1000
+Shopware
+s_user\id=6
+
+INSERT INTO `vio_article_customer_price` (`id`, `articledetailsID`, `customerId`, `from`, `to`, `price`, `pseudoPrice`, `percent`, `deduction_discount`) VALUES ('4', '999999', '6', '', NULL, '', '', '', NULL)
